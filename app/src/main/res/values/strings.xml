@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volume Tile</string>
+    <string name="tile_name">Volume</string>
+</resources>
