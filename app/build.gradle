@@ -11,8 +11,8 @@ android {
         applicationId "com.jhc.volumetile"
         minSdk 26
         targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
     }
 
     buildTypes {
@@ -30,4 +30,9 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+}
+
+
+dependencies {
+    implementation "com.github.topjohnwu.libsu:core:5.2.2"
 }

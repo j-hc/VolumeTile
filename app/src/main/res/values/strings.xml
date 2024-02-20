@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Volume Tile</string>
-    <string name="tile_name">Volume</string>
+    <string name="volume_tile_name">Volume</string>
+    <string name="power_tile_name">Lock</string>
 </resources>
